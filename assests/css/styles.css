@@ -8,6 +8,7 @@ body, h1, p, a {
   
   /* Navbar */
   .navbar {
+    width: 100%;
     background-color: #2d3a47;
      padding: 15px ; 
     position: fixed;
